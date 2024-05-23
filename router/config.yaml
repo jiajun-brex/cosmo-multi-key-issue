@@ -4,3 +4,5 @@
 # This file is used to debugging purposes only.
 
 version: "1"
+# Graph configurations
+router_config_path: "../example-schemas/schema.json"
